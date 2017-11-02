@@ -46,7 +46,7 @@ that time. Also took over development of a react native mobile app, web
 front-end, and rails back-end for a Madison-based startup.
 
 **Founder**  
-Veezus Kreist, Inc – Belleview, FL  
+Veezus Kreist, Inc – Cleveland, OH and Belleview, FL  
 January 2012 to May 2017
 
 Continued working solo with clients I met during my time at Hashrocket,
@@ -58,7 +58,7 @@ team.
 
 
 **Ruby on Rails Developer** (informally, Rescue Mission Specialist)  
-[Hashrocket](https://hashrocket.com) – Jacksonville, Fl and Chicago, IL  
+[Hashrocket](https://hashrocket.com) – Jacksonville, FL and Chicago, IL  
 May 2008 to July 2011
 
 Met some of the best developers I've ever worked with at Hashrocket. The
