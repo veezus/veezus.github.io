@@ -4,7 +4,7 @@ Located in Madison, WI
 [almighty@veez.us](mailto:almighty@veez.us)  
 [904.238.8439](tel://9042388439)
 
-### Seeking low-key, enjoyable employment to further hone modern JavaScript and / or mobile skills with a like-minded team. Been saving lost rails apps since '08 and developing web apps since '01.
+### Seeking enjoyable, remote employment to further hone modern JavaScript and / or functional ruby skills with a like-minded team. Saving lost rails apps since '08 and developing web apps since '01.
 
 ## Skills
 
