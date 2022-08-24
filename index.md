@@ -1,10 +1,10 @@
-# Veezus Kreist
+# Veez Remsik
 
 Located in Madison, WI  
 [almighty@veez.us](mailto:almighty@veez.us)  
 [904.238.8439](tel://9042388439)
 
-### Seeking enjoyable, remote employment to further hone modern JavaScript and / or functional ruby skills with a like-minded team. Saving lost rails apps since '08 and developing web apps since '01.
+### Seeking enjoyable, remote employment to further hone backend ruby skills with a like-minded team. Saving lost rails apps since '08 and developing web apps since '01.
 
 ## Skills
 
@@ -14,9 +14,8 @@ aspects of development that are especially important to me:
 **Testing**, specifically test-driven development, is something I'm pretty
 passionate about. I've been a fan of rspec as long as it's been around, and I
 love it for unit and functional tests. My first "rock star" moment at my first
-rails conference in Orlando was meeting Dave Chelimsky. I'm okay with feature
-tests written in rspec, but I generally prefer cucumber for the gherkin
-language.
+rails conference in Orlando was meeting Dave Chelimsky. Of late I've become a
+fan of minitest.
 
 **Refactoring** – in the service of new features – is another thing I'm
 passionate about. During my time at Hashrocket I was known as the guy who'd
@@ -24,14 +23,25 @@ take on brownfield projects no one else wanted. Two mantras keep me sane
 through any low-quality codebase: "do not stare directly into the code" and
 "leave it better than you found it".
 
-**Ruby and JavaScript** are the languages I use the most these days. I was born
-again upon discovering Ruby last decade; I love writing code that reads like
-natural English and eschew abbreviations and unnecessary symbols when possible.
-Ultimately it's about expressing the most intent to the next developer. For so
-many years JS was utterly unbearable, but of late I've found writing ES6 to be
-very enjoyable.
+**Ruby** is the language I use the most these days. I was reinvigorated upon
+discovering Ruby; I love writing code that reads like natural English and
+eschew abbreviations and unnecessary symbols when possible.  Ultimately it's
+about expressing the most intent to the next developer. Lately I've been
+exploring compiled languages like Rust and Go.
 
 ## Work Experience
+
+**Senior Software Engineer**  
+[Weedmaps](https://weedmaps.com/) – Madison, WI  
+May 2019 to August 2022
+
+As a founding member of the Ads squad, I helped write out and eventually took
+ownership of the delivery side of our product. Grew the primary ads endpoint to
+millions of requests per day, monitoring performance and making adjustments both
+proactively and reactively. Provided a standard API for other squads to enable
+ads on endpoints they control. Facilitated refactoring our code to match our
+growing domain language. Oversaw the beginning of the migration from a
+third-party to an in-house decision service.
 
 **Senior Engineer**  
 [Adorable IO](https://www.adorable.io) – Madison, WI  
