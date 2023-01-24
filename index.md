@@ -21,7 +21,7 @@ fan of minitest.
 passionate about. During my time at Hashrocket I was known as the guy who'd
 take on brownfield projects no one else wanted. Two mantras keep me sane
 through any low-quality codebase: "do not stare directly into the code" and
-"leave it better than you found it".
+"leave it better than you found it."
 
 **Ruby** is the language I use the most these days. I was reinvigorated upon
 discovering Ruby; I love writing code that reads like natural English and
